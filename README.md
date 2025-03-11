@@ -4,7 +4,7 @@ All the essential features are here - commands, pipes, error codes, paths, expan
 
 <br/>
 
-<img src="https://github.com/susikohmelo/minishell/blob/main/readme_files/minishell_minidemo.gif" height="300" />
+<img src="https://github.com/susikohmelo/minishell/blob/main/readme_files/minishell_minidemo.gif"/>
 
 ## Features
 * **Commands** <br/>
