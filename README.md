@@ -1,5 +1,6 @@
 # Minishell <img align="left" src="https://github.com/susikohmelo/minishell/blob/main/readme_files/score.png" height="120"/>
-A fully functional shell that closely follows the behavior of bash. All the essential features are here - commands, pipes, error codes, paths, expansions etc.
+A fully functional shell that closely follows the behavior of bash. <br/>
+All the essential features are here - commands, pipes, error codes, paths, expansions etc.
 
 <br/>
 
