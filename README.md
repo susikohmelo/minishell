@@ -12,13 +12,13 @@ All the essential features are here - commands, pipes, error codes, paths, expan
 * **I/O redirection & heredoc** <br/>
 <sup> '<' '<<' '>' '>>' <sup/>
 * **Variable expansion** <br/>
-<sup> $USER etc <sup/>
+<sup> $USER $? etc. <sup/>
 * **Our own implementations of builtin cmds** <br/>
 <sup> cd/echo/env etc. <sup/>
 * **Command history** <br/>
-<sup> remember previous commands <sup/>
+<sup> remember the previous commands and recall them <sup/>
 * **Signals & error codes** <br/>
-<sup> Signals are handled and the exit codes are correc <sup/>
+<sup> Signals are handled and the exit codes follow bash <sup/>
 * **Wildcards** <br/>
 <sup> expand the '*' character <sup/>
 * **Pipes**
