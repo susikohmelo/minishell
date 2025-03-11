@@ -1,6 +1,8 @@
 # Minishell <img align="left" src="https://github.com/susikohmelo/minishell/blob/main/readme_files/score.png" height="120"/>
 Our very own shell modeled after bash and zsh. All the essential features are here!
 
+<img src="https://github.com/susikohmelo/minishell/blob/main/readme_files/minishell_minidemo.gif" height="300" />
+
 <br/>
 
 ## Features
