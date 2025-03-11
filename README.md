@@ -23,7 +23,7 @@ All the essential features are here - commands, pipes, error codes, paths, expan
 <sup> expand the '*' character <sup/>
 * **Pipes**
 ## Install & run
-Download the repository, go to project_files and `make`. "minishell" is the name of the executable, just run it `./minishell`
+Download the repository, go to project_files and `make`. "minishell" is the name of the executable, just run it `./minishell`<br/>
 Or copy paste the entire thing from here:
 ```
 git clone git@github.com:susikohmelo/minishell.git
